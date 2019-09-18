@@ -1,0 +1,33 @@
+body {
+   
+    background-color: green;
+   }
+.bg-grey {
+    background-color: grey;
+}
+.nav-link {
+    color: #dd3;
+}
+.text-grey {
+    color: grey;
+}
+.text-fm {
+    font-size: 500%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 15px #000;
+}
+
+    
+
+
+
+
+
+.hd-bg-img {
+     background-color: rgb(238, 238, 27);
+}
+
+footer {
+    color: #dddd;
+    background-color: grey;
+}
